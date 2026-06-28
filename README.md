@@ -3,7 +3,7 @@
 <h3 align="center">💻 Software Developer | Computer Science Engineering Student | Lifelong Learner</h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=Boddu%20Navya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Developer&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=Navya%20Boddu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Developer&descAlignY=55"/>
 </p>
 
 <p align="center">
