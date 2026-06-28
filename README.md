@@ -1,4 +1,4 @@
-# Hi 👋, I'm Boddu Navya
+# Hi 👋, I'm Navya Boddu 
 
 <h3 align="center">💻 Software Developer | Computer Science Engineering Student | Lifelong Learner</h3>
 
