@@ -1,6 +1,6 @@
 # Hi 👋, I'm Navya Boddu 
 
-<h3 align="center">💻 Software Developer | Computer Science Engineering Student | Lifelong Learner</h3>
+<h3 align="center">💻 Software Developer | Information Technology Student | Lifelong Learner</h3>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=Navya%20Boddu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Developer&descAlignY=55"/>
@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-* 🎓 Final Year **B.Tech Computer Science Engineering** Student
+* 🎓 Final Year **B.Tech Information Technology** Student
 * 💻 Passionate about **Software Development** and **Web Development**
 * 🌱 Currently learning **React.js, MERN Stack, AWS Cloud & Data Structures**
 * 🚀 Interested in building scalable and user-friendly applications
